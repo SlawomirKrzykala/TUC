@@ -1,0 +1,2 @@
+TUC.exe -h
+pause
